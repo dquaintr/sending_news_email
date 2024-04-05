@@ -1,0 +1,6 @@
+needs gmail addresses, not others
+    will do that later
+
+   can get "dead" dropmail addresses
+
+tutorial uses own excel file with list of addresses, names and interests, not given here
